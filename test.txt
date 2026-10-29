@@ -1,0 +1,49 @@
+
+Sample Resume
+
+Software Engineer with experience in Python, Java, SQL and REST APIs.
+
+Worked on web applications, database integration, software testing
+and Agile development.
+
+Built Python applications using Pandas, NumPy and Scikit-learn.
+
+Currently learning Generative AI, LLM applications, embeddings,
+RAG and semantic search.
+
+Skills: Python, SQL, Git, Streamlit, REST API, NLP.
+
+
+Python Developer
+
+Required skills: Python, SQL, REST APIs, Git,
+Flask, FastAPI, database integration and testing.
+
+Responsibilities: Build backend applications,
+develop APIs, fix bugs and maintain software.
+
+
+---
+
+Generative AI Engineer
+
+Required skills: Python, LLMs, Generative AI,
+embeddings, semantic search, NLP, RAG,
+vector databases and prompt engineering.
+
+Responsibilities: Build AI applications,
+integrate language models and develop
+intelligent document search systems.
+
+
+---
+
+Technical Project Manager
+
+Required skills: Agile, Scrum, project management,
+stakeholder communication, risk management,
+project planning and team coordination.
+
+Responsibilities: Manage project timelines,
+coordinate development teams, track deliverables
+and communicate with stakeholders.

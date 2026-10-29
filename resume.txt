@@ -1,0 +1,60 @@
+# Rahul Sharma
+**Software Engineer | Generative AI Developer**
+
+Email: rahul.sharma@example.com  
+Location: New Delhi, India
+
+## Professional Summary
+Software Engineer with 4 years of experience developing web applications, REST APIs, and database-driven systems. Experienced in Python, SQL, Java, and application development. Familiar with Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), prompt engineering, and vector databases. Interested in building practical AI solutions that improve business processes.
+
+## Technical Skills
+- **Programming:** Python, Java, JavaScript, SQL
+- **AI/ML:** Generative AI, Machine Learning, LLMs, Prompt Engineering, NLP
+- **AI Frameworks:** LangChain, Sentence Transformers, Scikit-learn
+- **RAG & Search:** RAG, Embeddings, Vector Databases, Semantic Search
+- **Web Development:** Streamlit, Flask, REST APIs
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, GitHub, VS Code
+- **Methodologies:** Agile, Scrum, Software Development Life Cycle (SDLC)
+
+## Work Experience
+
+### Software Engineer
+ABC Technologies, New Delhi  
+January 2022 – Present
+
+- Developed and maintained web applications using Python, JavaScript, and SQL.
+- Built REST APIs to connect frontend applications with backend services.
+- Worked with relational databases to manage application data and improve query performance.
+- Developed a document-based question-answering application using RAG concepts.
+- Used text embeddings and semantic search to retrieve relevant information from documents.
+- Integrated AI models into applications to generate summaries and user-focused responses.
+- Collaborated with developers and testers to resolve issues and deliver software updates.
+- Participated in code reviews, testing, debugging, and Agile team meetings.
+
+## Projects
+
+### AI Resume & Job Matcher
+- Developed a Streamlit application to compare resumes with job descriptions.
+- Used Sentence Transformers and cosine similarity to calculate semantic similarity.
+- Identified matching and missing skills using text processing techniques.
+- Integrated a locally running LLM using Ollama to generate resume improvement suggestions and interview questions.
+
+### Document Q&A Assistant
+- Built a document question-answering application using Python and RAG concepts.
+- Processed document text and generated embeddings for semantic retrieval.
+- Used retrieved document content to help answer user questions.
+- Created a simple interface for interacting with uploaded documents.
+
+## Education
+
+**Master of Computer Applications (MCA)**  
+XYZ University
+
+**Bachelor of Computer Applications (BCA)**  
+XYZ College
+
+## Additional Information
+- Strong problem-solving and analytical skills.
+- Comfortable working independently and in a team.
+- Interested in Generative AI, application development, and AI-powered automation.

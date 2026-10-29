@@ -1,0 +1,7 @@
+streamlit
+pymupdf
+sentence-transformers
+scikit-learn
+ollama
+pandas
+reportlab

@@ -1,0 +1,41 @@
+# Job Description: Generative AI Engineer
+
+**Experience:** 1–3 Years  
+**Job Type:** Full-time  
+**Required Skills:** Python, NLP, LLMs, Embeddings, Semantic Search
+
+## About the Role
+We are looking for a Generative AI Engineer to develop AI-powered applications using Python, Large Language Models (LLMs), and Natural Language Processing (NLP). The candidate will work on intelligent document processing, semantic search, and AI-based solutions.
+
+## Responsibilities
+- Develop AI applications using Python and Generative AI technologies.
+- Integrate Large Language Models (LLMs) into applications.
+- Build semantic search systems using embeddings and vector databases.
+- Implement Retrieval-Augmented Generation (RAG) pipelines.
+- Process and analyze text using NLP techniques.
+- Develop REST APIs and integrate AI models into web applications.
+- Work with data processing libraries such as Pandas and NumPy.
+- Test, debug, and improve AI application performance.
+- Collaborate with software engineers and project teams.
+- Use Git for version control and maintain technical documentation.
+
+## Required Skills
+- Strong knowledge of Python programming.
+- Understanding of NLP and text processing.
+- Knowledge of LLMs, prompt engineering, and Generative AI.
+- Experience with text embeddings and semantic similarity.
+- Understanding of RAG and vector databases.
+- Familiarity with REST APIs and application development.
+- Knowledge of Git, SQL, and software development practices.
+- Good analytical, communication, and problem-solving skills.
+
+## Preferred Qualifications
+- Experience with Sentence Transformers and Scikit-learn.
+- Familiarity with Streamlit, FastAPI, or Flask.
+- Knowledge of vector databases such as FAISS, ChromaDB, or Pinecone.
+- Understanding of AI application architecture and model evaluation.
+
+## What We Offer
+- Opportunity to work on practical AI projects.
+- Exposure to modern Generative AI technologies.
+- Collaborative and learning-focused work environment.
